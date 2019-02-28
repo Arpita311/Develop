@@ -38,9 +38,9 @@ func Subtraction() {
 func ABC() {
 
 }
-func SDC() {
+func YZ() {
 
 }
-func YZ() {
+func SDC() {
 
 }
