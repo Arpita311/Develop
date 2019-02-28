@@ -19,3 +19,6 @@ func sum() {
 func multi() {
 	fmt.Println("Multiplication...........")
 }
+func subtraction() {
+	fmt.Println("Sub...............")
+}
