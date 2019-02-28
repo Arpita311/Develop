@@ -28,3 +28,6 @@ func div() {
 func percent() {
 	fmt.Println("Percentage........")
 }
+func Subtraction() {
+	fmt.Println("ABC")
+}
