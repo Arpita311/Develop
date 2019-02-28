@@ -32,6 +32,9 @@ func xyz() {
 func percent() {
 	fmt.Println("Percentage........")
 }
+func Subtraction() {
+	fmt.Println("ABC")
+}
 func ABC() {
 
 }
