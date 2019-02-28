@@ -29,3 +29,6 @@ func xyz() {
 
 	log.Print("XYZ")
 }
+func percent() {
+	fmt.Println("Percentage........")
+}
