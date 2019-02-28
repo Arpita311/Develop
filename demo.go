@@ -25,3 +25,7 @@ func multi() {
 func div() {
 	log.Print("Div............")
 }
+func xyz() {
+
+	log.Print("XYZ")
+}
