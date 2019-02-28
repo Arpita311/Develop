@@ -38,3 +38,6 @@ func Subtraction() {
 func ABC() {
 
 }
+func YZ() {
+
+}
