@@ -1,6 +1,9 @@
 package Demo
 
-import "fmt"
+import (
+	"fmt"
+	"log"
+)
 
 func add() {
 
@@ -18,4 +21,7 @@ func sum() {
 }
 func multi() {
 	fmt.Println("Multiplication...........")
+}
+func div() {
+	log.Print("Div.............")
 }
