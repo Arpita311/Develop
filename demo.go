@@ -19,3 +19,6 @@ func sumr() {
 func sub() {
 	fmt.Println("You are in Subtraction.........")
 }
+func sub1() {
+	fmt.Println("You are in Subtraction.........")
+}
