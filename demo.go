@@ -23,5 +23,5 @@ func multi() {
 	fmt.Println("Multiplication...........")
 }
 func div() {
-	log.Print("Div.............")
+	log.Print("Div............")
 }
