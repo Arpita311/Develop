@@ -1,6 +1,9 @@
 package Demo
 
-import "fmt"
+import (
+	"fmt"
+	"log"
+)
 
 func add() {
 
@@ -19,8 +22,8 @@ func sum() {
 func multi() {
 	fmt.Println("Multiplication...........")
 }
-func subtraction() {
-	fmt.Println("Sub...............")
+func div() {
+	log.Print("Div............")
 }
 func percent() {
 	fmt.Println("Percentage........")
