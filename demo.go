@@ -25,6 +25,10 @@ func multi() {
 func div() {
 	log.Print("Div............")
 }
+func xyz() {
+
+	log.Print("XYZ")
+}
 func percent() {
 	fmt.Println("Percentage........")
 }
