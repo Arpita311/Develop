@@ -22,3 +22,6 @@ func multi() {
 func subtraction() {
 	fmt.Println("Sub...............")
 }
+func percent() {
+	fmt.Println("Percentage........")
+}
